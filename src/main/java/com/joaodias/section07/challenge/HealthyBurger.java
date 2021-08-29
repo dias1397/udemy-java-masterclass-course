@@ -1,4 +1,4 @@
-package com.joaodias.section7.challenge;
+package com.joaodias.section07.challenge;
 
 import java.util.HashMap;
 import java.util.Map;

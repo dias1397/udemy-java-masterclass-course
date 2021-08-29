@@ -1,4 +1,4 @@
-package com.joaodias.section5;
+package com.joaodias.section05;
 
 public class DiagonalStar {
 

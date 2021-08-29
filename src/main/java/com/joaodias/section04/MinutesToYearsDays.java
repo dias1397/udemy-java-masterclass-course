@@ -1,4 +1,4 @@
-package com.joaodias.section4;
+package com.joaodias.section04;
 
 public class MinutesToYearsDays {
 
